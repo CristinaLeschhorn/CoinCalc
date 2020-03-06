@@ -4,3 +4,4 @@ The package supplies functions to compute the Event Coincidence of two timeserie
 Furthermore there are now functions to compute coupled amplitude adjusted Fourrier transformation surrogates, 
 to visualize the significance in a Receiver Operating Characteristics Analysis and to compute event synchronization rates 
 as addition to the ECA.
+Maintainer: Leonna Szangolies, Potsdam Institute for Climate Impact Research 
