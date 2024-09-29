@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("grDevices", "colorRampPalette", "rgb")
+importFrom("graphics", "arrows", "legend", "lines", "par", "plot","points", "polygon", "text", "title")
+importFrom("stats", "cor", "ecdf", "fft", "quantile", "rnorm", "runif")
